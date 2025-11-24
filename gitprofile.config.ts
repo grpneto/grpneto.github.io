@@ -83,6 +83,7 @@ const CONFIG = {
     'Python',
     'SQL',
     'Excel',
+    'Git',
     'Azure'
   ],
   
@@ -114,52 +115,10 @@ const CONFIG = {
     // Available themes. To remove any theme, exclude from here.
     themes: [
       'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
       'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
-      'caramellatte',
-      'abyss',
-      'silk',
-      'procyon',
+      'dim'
     ],
   },
-
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
-
-  enablePWA: true,
 };
 
 export default CONFIG;
