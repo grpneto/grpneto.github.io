@@ -70,9 +70,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'gildarteneto9@gmail.com',
   },
   resume: {
     fileUrl:
