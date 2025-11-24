@@ -114,8 +114,8 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'fantasy',
-      'dim'
+      'dim',
+      'fantasy'
     ],
   },
 };
