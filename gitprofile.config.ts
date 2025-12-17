@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Desafio de criação de DB, diagrama ER e queries',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/grpneto/grpneto.github.io/blob/8ceb74b0e199511faa205b11e3ca5ea4b7cf8524/images/Captura%20de%20tela%202025-12-17%20112111.png',
+          link: 'https://github.com/grpneto/Ecommerce_SQL',
         },
         {
           title: 'Project Name',
