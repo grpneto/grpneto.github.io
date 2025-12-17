@@ -35,9 +35,9 @@ const CONFIG = {
         {
           title: 'Desafio de criação de DB, diagrama ER e queries',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Criação de banco de dados, diagrama ER e desenvolvimento de queries SQL.',
           imageUrl:
-            'https://github.com/grpneto/grpneto.github.io/blob/8ceb74b0e199511faa205b11e3ca5ea4b7cf8524/images/Captura%20de%20tela%202025-12-17%20112111.png',
+            'https://raw.githubusercontent.com/grpneto/Ecommerce_SQL/main/images/er-diagrama.png',
           link: 'https://github.com/grpneto/Ecommerce_SQL',
         },
         {
