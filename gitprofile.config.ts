@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Desafio de criação de DB, diagrama ER e queries',
           description:
-            'Criação de banco de dados, diagrama ER e desenvolvimento de queries SQL.',
+            'Desafio de criação de banco de dados, diagrama ER e desenvolvimento de queries SQL.',
           imageUrl:
             'https://static.thenounproject.com/png/5340616-200.png',
           link: 'https://github.com/grpneto/Ecommerce_SQL',
