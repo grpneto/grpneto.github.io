@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/grpneto/Ecommerce_SQL',
         },
         {
-          title: 'Project Name',
+          title: 'Análise Exploratória dos dados da Pesquisa da Pecuária Municipal',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Análise exploratória aplicada aos dados da Pesquisa da Pecuária Municipal (PPM) do IBGE, utilizando agregações, visualizações e séries históricas.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.creativefabrica.com/wp-content/uploads/2021/12/29/1640787101/Stacked-Farm-Animal-Silhouette-black-version-580x386.jpg',
+          link: 'https://github.com/grpneto/ppm_analise',
         },
       ],
     },
