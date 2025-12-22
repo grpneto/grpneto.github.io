@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Desafio de criação de DB, diagrama ER e queries',
+          title: 'Análise de Dados- Wholesale Customers',
           description:
-            'Desafio de criação de banco de dados, diagrama ER e desenvolvimento de queries SQL.',
+            'Análise exploratória de dados do conjunto de dados Wholesale Customers, com informações sobre os gastos anuais de clientes atacadistas em diferentes categorias de produtos.',
           imageUrl:
-            'https://static.thenounproject.com/png/5340616-200.png',
-          link: 'https://github.com/grpneto/Ecommerce_SQL',
+            'https://cdn-icons-png.flaticon.com/512/8552/8552132.png',
+          link: 'https://github.com/grpneto/wholesale_customers',
         },
         {
           title: 'Análise Exploratória dos dados da Pesquisa da Pecuária Municipal',
