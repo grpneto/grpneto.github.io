@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Análise exploratória de dados do conjunto de dados Wholesale Customers, com informações sobre os gastos anuais de clientes atacadistas em diferentes categorias de produtos.',
           imageUrl:
-            'https://cdn-icons-png.flaticon.com/512/8552/8552132.png',
+            'https://cdn-icons-png.flaticon.com/512/1434/1434728.png',
           link: 'https://github.com/grpneto/wholesale_customers',
         },
         {
