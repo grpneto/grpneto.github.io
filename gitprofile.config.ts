@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Análise de Dados- Wholesale Customers',
+          title: 'Análise  Exploratória de Dados- Wholesale Customers',
           description:
             'Análise exploratória de dados do conjunto de dados Wholesale Customers, com informações sobre os gastos anuais de clientes atacadistas em diferentes categorias de produtos.',
           imageUrl:
@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://github.com/grpneto/wholesale_customers',
         },
         {
-          title: 'Análise Exploratória dos dados da Pesquisa da Pecuária Municipal',
+          title: 'Análise Exploratória de Dados- Campanha de Marketing de Banco',
           description:
-            'Análise exploratória aplicada aos dados da Pesquisa da Pecuária Municipal (PPM) do IBGE, utilizando agregações, visualizações e séries históricas.',
+            'Análise exploratória dos dados de campanha de marketing bancário, com foco na identificação de padrões, comportamento dos clientes e métricas de performance por meio de visualizações.',
           imageUrl:
-            'https://www.creativefabrica.com/wp-content/uploads/2021/12/29/1640787101/Stacked-Farm-Animal-Silhouette-black-version-580x386.jpg',
-          link: 'https://github.com/grpneto/ppm_analise',
+            'https://cdn-icons-png.flaticon.com/512/662/662622.png',
+          link: 'https://github.com/grpneto/bank_mkt_analise',
         },
       ],
     },
